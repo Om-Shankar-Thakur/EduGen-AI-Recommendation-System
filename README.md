@@ -17,6 +17,14 @@
 
 ---
 
+## 🏗️ Architecture
+The architecture of EduGen is built using a modular approach, incorporating various components like the web interface, recommendation logic, and backend server. Here's the architecture diagram:
+
+![Architecture Diagram](imgs/EduGen_ A Generative AI-powered Adaptive Course Recommendation System - visual selection (1).png)
+
+---
+
+
 ## 🛠️ Tech Stack
 
 - 🐍 Python 3.8+
@@ -66,6 +74,7 @@ The personalised_recommendation_system_plots.py script visually compares EduGen�
 🎯 Over 20% increase in recommendation relevance
 
 📊 Dynamic improvement with every user interaction
+
 
 🔒 License
 This project is licensed under the MIT License – feel free to use, adapt, and extend it for educational or personal projects.
