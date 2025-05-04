@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.log
+.env
+.vscode/
+.idea/
+*.sqlite3
+*.db
+.DS_Store
+FuturLearn_main/__pycache__/
