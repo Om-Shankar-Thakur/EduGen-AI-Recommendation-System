@@ -1,0 +1,6 @@
+qdrant-client
+requests
+transformers
+torch
+python-dotenv
+httpx

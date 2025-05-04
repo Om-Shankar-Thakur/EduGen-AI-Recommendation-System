@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+:root {
+  --logocolor: #4267B2;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+header {
+  width: 100%;
+  padding: 16px 20px;
+  z-index: 1000;
+  display: flex;
+  /*justify-content: center;*/
+}
+
+header .logo {
+  font-family: 'Otomanopee One', sans-serif;
+  color: var(--logocolor);
+  letter-spacing: 1.4px;
+  margin-top: 8px;
+  margin-left: 40px;
+  padding: 0px 24px;
+  border: solid 2px var(--logocolor);
+  box-shadow: 9px 5px 8px;
+  cursor: pointer;
+}
+
+main {
+  box-sizing: content-box;
+  display: flex;
+  width: 100%;
+  padding: 16px;
+  padding-bottom: 0px;
+  margin: 12px;
+  margin: 4% 1%;
+  /* margin-bottom: 4px; */
+  /* border: solid 2pt grey; */
+}
+
+.hero-content {
+  box-sizing: content-box;
+  float: left;
+  width: 40%;
+  padding: 24px;
+  margin-top: 20px;
+  margin-left: 20px;
+  /* border: solid 2pt grey; */
+}
+
+.hero-content .p1 {
+  font-size: 72px;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.hero-content .p2 {
+  font-size: 20px;
+  padding-top: 10px;
+  color: rgba(0, 0, 0, 0.9);
+}
+
+.hero-content .signup-butt {
+  margin: 8% 2% 0 0;
+  font-size: 28px;
+  font-weight: 500;
+  padding: 0.5% 4%;
+  background-color: #42b72a;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.hero-content .signup-butt:hover {
+  background-color: #4ba838;
+}
+
+.hero-content .login-butt {
+  margin: 8% 2% 0 0;
+  font-size: 28px;
+  font-weight: 500;
+  color: #fff;
+  padding: 0.5% 6%;
+  /*background-color: #1877f2;*/
+  background-color: rgba(29, 119, 237, 0.9);
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.hero-content .login-butt:hover {
+  background-color: #0a74ff;
+}
+
+.hero-image {
+  box-sizing: content-box;
+  width: 50%;
+  padding: 4px;
+  margin-top: 2%;
+  margin-left: 8%;
+  float: right;
+  /* border: solid 2pt grey; */
+}
+
+.hero-image img {
+  max-width: 100%;
+  transition: 3s;
+  cursor: pointer;
+}
+
+.hero-image img:hover {
+  transform: scale(1.01) translateY(-12px);
+}
+
+footer {
+  font-family: 'Times New Roman', Times, serif;
+  color: grey;
+  margin-left: 80px;
+  margin: 8px 0px 8px 0px;
+  text-align: center;
+}

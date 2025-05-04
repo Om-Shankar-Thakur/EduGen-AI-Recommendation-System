@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tasks - EduWeb</title>
+  <link rel="stylesheet" href="../css/tasks.css">
+
+</head>
+
+<body>
+  <header>
+    <h1 class='logo'>EduWeb</h1>
+    <nav>
+      <a href="../pages/home.html">Home</a>
+      <a href="../pages/courses.html"> All Courses</a>
+      <a href="../pages/tasks.html" style="font-weight: bolder; background-color:lightgrey ;">To-Do</a>
+      <a href="../pages/account.html">My Account</a>
+      <a href="../index.html">Log out</a>
+    </nav>
+    <div class="separator"></div>
+  </header>
+  <main>
+    <div class="container">
+      <h2>Task Manager</h2>
+      <br /><br />
+      <div>
+        <form>
+          <div>
+            <input type="text" placeholder="todo-item" id="box" />
+          </div>
+          <div>
+            <input type="button" value=" ADD " onclick="add_item()" class="add-task" />
+          </div>
+        </form>
+      </div>
+      <div>
+        <ul id="list_item">
+        </ul>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <p class="p1"> Happy Learning with EduWeb </p>
+    <p class="p2"> Make a part of your journey with us. Enroll now ! </p>
+    <hr>
+    <p class="p3"><small>Copyright &copy; 2024 The Hecker Bois</small></p>
+  </footer>
+  <script type="text/javascript" src="../js/account.js"></script>
+</body>
+
+</html>

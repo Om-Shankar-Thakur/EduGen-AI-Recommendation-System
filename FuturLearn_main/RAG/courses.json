@@ -1,0 +1,461 @@
+[
+  {
+    "course_id": "WD101",
+    "course_name": "HTML & CSS Fundamentals",
+    "description": "Learn the basics of building websites with HTML5 and CSS3.",
+    "area_of_interest": "Web Development",
+    "career_goal": "Frontend Developer",
+    "difficulty_level": "Beginner",
+    "duration_hours": 20
+  },
+  {
+    "course_id": "WD102",
+    "course_name": "JavaScript Essentials",
+    "description": "Master core JavaScript concepts for interactive web pages.",
+    "area_of_interest": "Web Development",
+    "career_goal": "Frontend Developer",
+    "difficulty_level": "Beginner",
+    "duration_hours": 25
+  },
+  {
+    "course_id": "WD201",
+    "course_name": "React.js for Beginners",
+    "description": "Build dynamic web apps using React components and hooks.",
+    "area_of_interest": "Web Development",
+    "career_goal": "Frontend Developer",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 30
+  },
+  {
+    "course_id": "WD301",
+    "course_name": "Next.js Masterclass",
+    "description": "Learn server-side rendering and full-stack capabilities with Next.js.",
+    "area_of_interest": "Web Development",
+    "career_goal": "Full Stack Developer",
+    "difficulty_level": "Advanced",
+    "duration_hours": 40
+  },
+  {
+    "course_id": "DS101",
+    "course_name": "Python for Data Science",
+    "description": "Learn Python programming focused on data analysis and visualization.",
+    "area_of_interest": "Data Science",
+    "career_goal": "Data Analyst",
+    "difficulty_level": "Beginner",
+    "duration_hours": 25
+  },
+  {
+    "course_id": "DS201",
+    "course_name": "Statistics and Probability",
+    "description": "Master core statistical concepts crucial for data science.",
+    "area_of_interest": "Data Science",
+    "career_goal": "Data Scientist",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 30
+  },
+  {
+    "course_id": "DS301",
+    "course_name": "Machine Learning with Scikit-learn",
+    "description": "Implement ML models like regression, clustering, classification.",
+    "area_of_interest": "Data Science",
+    "career_goal": "Machine Learning Engineer",
+    "difficulty_level": "Advanced",
+    "duration_hours": 45
+  },
+  {
+    "course_id": "NJS101",
+    "course_name": "Node.js Basics",
+    "description": "Learn server-side programming with Node.js and Express.js.",
+    "area_of_interest": "Backend Development",
+    "career_goal": "Backend Developer",
+    "difficulty_level": "Beginner",
+    "duration_hours": 25
+  },
+  {
+    "course_id": "NJS201",
+    "course_name": "Building APIs with Node.js",
+    "description": "Develop RESTful APIs and backend systems using Node.js.",
+    "area_of_interest": "Backend Development",
+    "career_goal": "Backend Developer",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 35
+  },
+  {
+    "course_id": "UX101",
+    "course_name": "UX/UI Design Principles",
+    "description": "Design beautiful, user-centered interfaces with Figma.",
+    "area_of_interest": "UI/UX Design",
+    "career_goal": "UI/UX Designer",
+    "difficulty_level": "Beginner",
+    "duration_hours": 20
+  },
+  {
+    "course_id": "UX201",
+    "course_name": "Advanced Prototyping Techniques",
+    "description": "Master user research, wireframes, and prototyping tools.",
+    "area_of_interest": "UI/UX Design",
+    "career_goal": "Product Designer",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 30
+  },
+  {
+    "course_id": "MOB101",
+    "course_name": "Flutter for Mobile Apps",
+    "description": "Build cross-platform mobile apps using Flutter and Dart.",
+    "area_of_interest": "Mobile App Development",
+    "career_goal": "Mobile App Developer",
+    "difficulty_level": "Beginner",
+    "duration_hours": 30
+  },
+  {
+    "course_id": "MOB201",
+    "course_name": "React Native Advanced",
+    "description": "Create powerful mobile apps with React Native and native modules.",
+    "area_of_interest": "Mobile App Development",
+    "career_goal": "Mobile App Developer",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 40
+  },
+  {
+    "course_id": "AI101",
+    "course_name": "AI for Everyone",
+    "description": "Understand the basics of AI, machine learning, and their applications.",
+    "area_of_interest": "Artificial Intelligence",
+    "career_goal": "AI Enthusiast",
+    "difficulty_level": "Beginner",
+    "duration_hours": 20
+  },
+  {
+    "course_id": "AI201",
+    "course_name": "Natural Language Processing (NLP)",
+    "description": "Work on NLP techniques like tokenization, transformers, and Hugging Face.",
+    "area_of_interest": "Artificial Intelligence",
+    "career_goal": "NLP Engineer",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 35
+  },
+  {
+    "course_id": "SEC101",
+    "course_name": "Introduction to Cybersecurity",
+    "description": "Learn basic cybersecurity principles, attacks, and defense mechanisms.",
+    "area_of_interest": "Cybersecurity",
+    "career_goal": "Security Analyst",
+    "difficulty_level": "Beginner",
+    "duration_hours": 25
+  },
+  {
+    "course_id": "SEC201",
+    "course_name": "Ethical Hacking",
+    "description": "Learn penetration testing, vulnerability assessment, and ethical hacking.",
+    "area_of_interest": "Cybersecurity",
+    "career_goal": "Ethical Hacker",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 40
+  },
+  {
+    "course_id": "CLOUD101",
+    "course_name": "AWS Cloud Practitioner",
+    "description": "Understand AWS services, billing, and cloud fundamentals.",
+    "area_of_interest": "Cloud Computing",
+    "career_goal": "Cloud Engineer",
+    "difficulty_level": "Beginner",
+    "duration_hours": 20
+  },
+  {
+    "course_id": "CLOUD201",
+    "course_name": "Architecting on AWS",
+    "description": "Design and deploy scalable applications on AWS cloud.",
+    "area_of_interest": "Cloud Computing",
+    "career_goal": "Cloud Architect",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 40
+  },
+  {
+    "course_id": "PM101",
+    "course_name": "Agile Project Management",
+    "description": "Master Agile principles, Scrum frameworks, and project delivery.",
+    "area_of_interest": "Project Management",
+    "career_goal": "Project Manager",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 30
+  },
+  {
+    "course_id": "BD101",
+    "course_name": "Big Data Foundations",
+    "description": "Understand big data concepts, Hadoop, Spark, and ecosystem tools.",
+    "area_of_interest": "Data Engineering",
+    "career_goal": "Data Engineer",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 40
+  },
+  {
+    "course_id": "ML301",
+    "course_name": "Deep Learning Specialization",
+    "description": "Master neural networks, CNNs, RNNs, and TensorFlow projects.",
+    "area_of_interest": "Artificial Intelligence",
+    "career_goal": "Deep Learning Engineer",
+    "difficulty_level": "Advanced",
+    "duration_hours": 50
+  },
+  {
+    "course_id": "IOT101",
+    "course_name": "Introduction to IoT",
+    "description": "Learn about IoT architecture, devices, and cloud integration.",
+    "area_of_interest": "Internet of Things",
+    "career_goal": "IoT Developer",
+    "difficulty_level": "Beginner",
+    "duration_hours": 25
+  },
+  {
+    "course_id": "ARVR101",
+    "course_name": "AR/VR Development Basics",
+    "description": "Learn augmented reality and virtual reality development fundamentals.",
+    "area_of_interest": "AR/VR",
+    "career_goal": "AR/VR Developer",
+    "difficulty_level": "Beginner",
+    "duration_hours": 30
+  },
+  {
+    "course_id": "BC101",
+    "course_name": "Blockchain Essentials",
+    "description": "Understand blockchain technology, smart contracts, and applications.",
+    "area_of_interest": "Blockchain",
+    "career_goal": "Blockchain Developer",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 35
+  },
+  {
+    "course_id": "WD202",
+    "course_name": "Advanced CSS Techniques",
+    "description": "Learn advanced CSS features such as Flexbox, Grid, and animations.",
+    "area_of_interest": "Web Development",
+    "career_goal": "Frontend Developer",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 30
+  },
+  {
+    "course_id": "WD203",
+    "course_name": "Vue.js for Web Development",
+    "description": "Build interactive UIs with Vue.js framework and Vue Router.",
+    "area_of_interest": "Web Development",
+    "career_goal": "Frontend Developer",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 30
+  },
+  {
+    "course_id": "WD302",
+    "course_name": "Advanced JavaScript Concepts",
+    "description": "Dive deep into closures, callbacks, promises, and async/await.",
+    "area_of_interest": "Web Development",
+    "career_goal": "Frontend Developer",
+    "difficulty_level": "Advanced",
+    "duration_hours": 35
+  },
+  {
+    "course_id": "WD303",
+    "course_name": "Web Performance Optimization",
+    "description": "Learn techniques for optimizing website speed and performance.",
+    "area_of_interest": "Web Development",
+    "career_goal": "Web Performance Engineer",
+    "difficulty_level": "Advanced",
+    "duration_hours": 40
+  },
+  {
+    "course_id": "DS102",
+    "course_name": "Data Wrangling with Pandas",
+    "description": "Learn data cleaning, transformation, and exploration with Pandas.",
+    "area_of_interest": "Data Science",
+    "career_goal": "Data Analyst",
+    "difficulty_level": "Beginner",
+    "duration_hours": 25
+  },
+  {
+    "course_id": "DS202",
+    "course_name": "Data Visualization with Matplotlib",
+    "description": "Create static, animated, and interactive visualizations with Matplotlib.",
+    "area_of_interest": "Data Science",
+    "career_goal": "Data Scientist",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 30
+  },
+  {
+    "course_id": "DS302",
+    "course_name": "Advanced Machine Learning Techniques",
+    "description": "Explore advanced ML topics like ensemble methods and deep learning.",
+    "area_of_interest": "Data Science",
+    "career_goal": "Machine Learning Engineer",
+    "difficulty_level": "Advanced",
+    "duration_hours": 50
+  },
+  {
+    "course_id": "NJS301",
+    "course_name": "Node.js Performance Tuning",
+    "description": "Learn techniques for improving Node.js application performance.",
+    "area_of_interest": "Backend Development",
+    "career_goal": "Backend Developer",
+    "difficulty_level": "Advanced",
+    "duration_hours": 35
+  },
+  {
+    "course_id": "NJS301",
+    "course_name": "Building Microservices with Node.js",
+    "description": "Learn to build scalable and modular microservices with Node.js.",
+    "area_of_interest": "Backend Development",
+    "career_goal": "Backend Developer",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 40
+  },
+  {
+    "course_id": "UX301",
+    "course_name": "Design Systems and Pattern Libraries",
+    "description": "Create reusable design systems and pattern libraries using Figma.",
+    "area_of_interest": "UI/UX Design",
+    "career_goal": "UI/UX Designer",
+    "difficulty_level": "Advanced",
+    "duration_hours": 35
+  },
+  {
+    "course_id": "UX302",
+    "course_name": "User Research and Testing",
+    "description": "Learn methodologies for conducting user research and usability testing.",
+    "area_of_interest": "UI/UX Design",
+    "career_goal": "Product Designer",
+    "difficulty_level": "Advanced",
+    "duration_hours": 40
+  },
+  {
+    "course_id": "MOB301",
+    "course_name": "Advanced Flutter and Dart",
+    "description": "Master advanced Flutter and Dart techniques for mobile app development.",
+    "area_of_interest": "Mobile App Development",
+    "career_goal": "Mobile App Developer",
+    "difficulty_level": "Advanced",
+    "duration_hours": 45
+  },
+  {
+    "course_id": "MOB302",
+    "course_name": "Native Android Development with Kotlin",
+    "description": "Learn how to develop native Android apps using Kotlin.",
+    "area_of_interest": "Mobile App Development",
+    "career_goal": "Android Developer",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 40
+  },
+  {
+    "course_id": "AI301",
+    "course_name": "AI & Ethics",
+    "description": "Explore the ethical implications and challenges of AI technologies.",
+    "area_of_interest": "Artificial Intelligence",
+    "career_goal": "AI Researcher",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 30
+  },
+  {
+    "course_id": "AI302",
+    "course_name": "AI in Healthcare",
+    "description": "Learn about the applications of AI in the healthcare industry.",
+    "area_of_interest": "Artificial Intelligence",
+    "career_goal": "AI Healthcare Specialist",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 35
+  },
+  {
+    "course_id": "SEC301",
+    "course_name": "Incident Response and Forensics",
+    "description": "Learn how to respond to cybersecurity incidents and conduct forensic investigations.",
+    "area_of_interest": "Cybersecurity",
+    "career_goal": "Incident Responder",
+    "difficulty_level": "Advanced",
+    "duration_hours": 45
+  },
+  {
+    "course_id": "SEC302",
+    "course_name": "Advanced Penetration Testing",
+    "description": "Learn advanced techniques for penetration testing and ethical hacking.",
+    "area_of_interest": "Cybersecurity",
+    "career_goal": "Ethical Hacker",
+    "difficulty_level": "Advanced",
+    "duration_hours": 50
+  },
+  {
+    "course_id": "CLOUD301",
+    "course_name": "Cloud Security and Governance",
+    "description": "Learn about cloud security best practices, compliance, and governance.",
+    "area_of_interest": "Cloud Computing",
+    "career_goal": "Cloud Security Engineer",
+    "difficulty_level": "Advanced",
+    "duration_hours": 40
+  },
+  {
+    "course_id": "CLOUD302",
+    "course_name": "Kubernetes and Docker for DevOps",
+    "description": "Learn how to deploy and manage applications using Kubernetes and Docker.",
+    "area_of_interest": "Cloud Computing",
+    "career_goal": "DevOps Engineer",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 45
+  },
+  {
+    "course_id": "PM201",
+    "course_name": "Scrum Master Certification Prep",
+    "description": "Prepare for the Scrum Master certification exam and learn agile leadership.",
+    "area_of_interest": "Project Management",
+    "career_goal": "Scrum Master",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 35
+  },
+  {
+    "course_id": "PM202",
+    "course_name": "Managing Remote Teams",
+    "description": "Learn strategies for managing and collaborating with remote teams.",
+    "area_of_interest": "Project Management",
+    "career_goal": "Project Manager",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 30
+  },
+  {
+    "course_id": "BD201",
+    "course_name": "Data Pipeline Design",
+    "description": "Learn how to design and manage data pipelines using Apache Kafka and Spark.",
+    "area_of_interest": "Data Engineering",
+    "career_goal": "Data Engineer",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 40
+  },
+  {
+    "course_id": "ML201",
+    "course_name": "Reinforcement Learning",
+    "description": "Learn reinforcement learning algorithms and applications in AI.",
+    "area_of_interest": "Artificial Intelligence",
+    "career_goal": "Machine Learning Engineer",
+    "difficulty_level": "Advanced",
+    "duration_hours": 50
+  },
+  {
+    "course_id": "IOT201",
+    "course_name": "IoT System Design and Architecture",
+    "description": "Design IoT systems from device integration to cloud solutions.",
+    "area_of_interest": "Internet of Things",
+    "career_goal": "IoT Architect",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 40
+  },
+  {
+    "course_id": "ARVR201",
+    "course_name": "Building Immersive AR/VR Experiences",
+    "description": "Create immersive AR/VR experiences using Unity and ARCore/ARKit.",
+    "area_of_interest": "AR/VR",
+    "career_goal": "AR/VR Developer",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 45
+  },
+  {
+    "course_id": "BC201",
+    "course_name": "Smart Contract Development with Solidity",
+    "description": "Develop decentralized applications with Solidity and Ethereum blockchain.",
+    "area_of_interest": "Blockchain",
+    "career_goal": "Blockchain Developer",
+    "difficulty_level": "Intermediate",
+    "duration_hours": 45
+  }
+]
