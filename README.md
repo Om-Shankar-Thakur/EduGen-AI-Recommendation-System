@@ -26,21 +26,6 @@
 - 🌐 HTML (Frontend UI)
 - 📦 Flask (Backend server, optional)
 
----
-
-## 📁 Project Structure
-EduGen-AI-Recommendation-System/
-│
-├── FuturLearn_main/
-│ ├── index.html # Web-based user interface
-│ ├── background/ # Optional visual assets
-│ ├── personalised_recommendation_system_plots.py # Accuracy comparison script
-│ └── RAG/
-│ └── recommendation.py # Core recommendation logic using RAG
-│
-├── server.py # Flask backend to serve recommendations
-├── requirements.txt # Python dependencies
-└── README.md
 
 
 
@@ -65,7 +50,7 @@ EduGen-AI-Recommendation-System/
     cd FuturLearn_main
     python -m http.server 8000
     
-# Visit http://localhost:8000 in your browser
+### Visit http://localhost:8000 in your browser
 
 ### 4. Run the Recommendation Model
 
