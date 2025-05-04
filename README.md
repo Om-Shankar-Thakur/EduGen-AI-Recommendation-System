@@ -15,12 +15,7 @@
 - 📈 **Data-Driven Insights** – Accuracy improves with user interaction
 - 🧠 **Semantic Matching** – Understands learner's context, preferences, and interests
 
----
 
-## 🏗️ Architecture
-The architecture of EduGen is built using a modular approach, incorporating various components like the web interface, recommendation logic, and backend server. Here's the architecture diagram:
-
-![Architecture Diagram](imgs/EduGen_ A Generative AI-powered Adaptive Course Recommendation System - visual selection (1).png)
 
 ---
 
